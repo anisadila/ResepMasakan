@@ -12,9 +12,6 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
-    ImageView gambarResep;
-    TextView judulResep;
-    TextView deskripsiResep;
     RecyclerView recyclerView;
 
     @Override
